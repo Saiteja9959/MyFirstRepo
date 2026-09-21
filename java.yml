@@ -2,3 +2,6 @@
 
 - hosts: all
   become: true
+
+  tasks:
+     - name : Myfist dataa
